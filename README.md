@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Little-Lemon 🍋
 
 <br>
@@ -55,3 +56,6 @@ For the menu page, the owners would like to store the menu information in a data
 # meta-final-assessment
 # meta-final-assessment
 # meta-final-assessment
+=======
+# meta-final-assessment
+>>>>>>> dc11be41fc8ee6ca9bfaf6c2a4a1883618c7b51e
